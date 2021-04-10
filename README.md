@@ -1,1 +1,2 @@
-# SOCReadme
+# SOC Readme
+Till now we have covered all the basics of Machine Learning and CNN which will be required in the next phase of the project. We have also gone through first five weeks of Andrew Ng's course on ML. Apart from that we have solved three assignments made by our mentors which involved learning various python modules such as numpy, scikit, OpenCV and MatPlotLib. Also in our initial assignment we covered using Jupyter Notebook and Git.
